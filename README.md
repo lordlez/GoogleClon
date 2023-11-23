@@ -1,5 +1,5 @@
 # :art:		Google Clon
-Link directo al proyecto: [link](https://lordlez.github.io/XXX/)
+Link directo al proyecto: [link](https://lordlez.github.io/GoogleClon/)
 
 
 # 📝 Objetivo del proyecto
