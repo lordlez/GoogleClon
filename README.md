@@ -31,6 +31,3 @@ Para la construcción de este clon, se emplearon las siguientes tecnologías ese
 
 ---
 
-<p align="center">
-  ✨ ¡Espero que disfrutes explorando esta recreación del buscador de Google! ✨
-</p>
